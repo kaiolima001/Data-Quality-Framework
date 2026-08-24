@@ -1,19 +1,26 @@
 # Data Quality Framework
 
-Framework focused on data validation, consistency checks and anomaly detection.
-
-## Features
-
-- Historical Validation
-- Data Quality Monitoring
-- Inconsistency Detection
-- Automated Validation
+Collection of projects focused on data validation, consistency analysis and information reliability.
 
 ## Technologies
 
 - SQL
 - Alteryx
+- Data Quality
 
-## Objective
+## Key Topics
 
-Improve information reliability through automated validation processes and data quality controls.
+- Historical Validation
+- Data Consistency
+- Data Quality Monitoring
+- Inconsistency Detection
+- Business Rules Validation
+
+## Portfolio Overview
+
+Projects inspired by real-world data quality scenarios involving historical validation, consistency checks and anomaly detection.
+
+## Projects
+
+- Historical_Validation
+- Inconsistency_Detection
