@@ -22,5 +22,6 @@ Projects inspired by real-world data quality scenarios involving historical vali
 
 ## Projects
 
-- Historical_Validation
-- Inconsistency_Detection
+- https://github.com/kaiolima001/Data-Quality-Framework/blob/main/Historical_Validation.md
+
+- https://github.com/kaiolima001/Data-Quality-Framework/blob/main/Inconsistency_Detection.md
